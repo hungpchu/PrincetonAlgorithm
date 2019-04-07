@@ -1,0 +1,3 @@
+At 1PM 1 connect 0
+At 2PM 2 connect 0
+At 3PM 2 connect 1
