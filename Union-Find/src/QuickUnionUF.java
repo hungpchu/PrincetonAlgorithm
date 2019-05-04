@@ -6,6 +6,7 @@
  * @author han
  * Quick-union: Java implementation
  */
+
 public class QuickUnionUF {
 
 	/**
